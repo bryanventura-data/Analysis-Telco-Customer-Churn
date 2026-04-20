@@ -15,9 +15,9 @@ Para explorar el dashboard interactivo en tiempo real haga clic en la imagen de 
 * **Power BI:** Visualización de datos y creación del dashboard interactivo.
 
 ## 📈 Hallazgos Principales
-* El 26.58% de los clientes abandonó el servicio (1,869 clientes).
+* Los clientes que abandonaron el servicio fueron 1869, esto representa el 26.58% del total.
 * Los contratos mensuales concentran el 88.5% del churn total.
-* El promedio de pago mensual de clientes que abandonan el contrato es 74.44, frente a 61.31 de los que permanecen.
+* El promedio de pago mensual de clientes que abandonan el servicio es 74.44, frente a 61.31 de los que permanecen.
 * Los clientes que abandonan tienen en promedio 18 meses de antigüedad vs 37 de los que permanecen.
 * El servicio de fibra óptica tiene una tasa de abandono del 41.89%, esto representa el 69.4% del churn total.
 * El perfil de mayor riesgo es un cliente nuevo con contrato mensual, fibra óptica y pagos entre 80 y 100.
