@@ -1,4 +1,4 @@
-# Analysis Telco Customer Churn
+# Análisis de churn de clientes de una empresa de telecomunicaciones
 
 Este proyecto analiza la deserción de clientes (churn) de una empresa de telecomunicaciones para identificar patrones y factores clave.
 
