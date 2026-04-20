@@ -11,7 +11,7 @@ Para explorar el dashboard interactivo en tiempo real haga clic en la imagen de 
 
 ## Herramientas Utilizadas
 * **Python (Pandas/Plotly express):** Limpieza de datos y análisis exploratorio (EDA).
-* **SQL (MySQL):Modelado relacional y validación de hallazgos mediante consultas.
+* **SQL (MySQL):** Modelado relacional y validación de hallazgos mediante consultas.
 * **Power BI:** Visualización de datos y creación del dashboard interactivo.
 
 ## 📈 Hallazgos Principales
