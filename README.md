@@ -1,7 +1,5 @@
 # Analysis-Telco-Customer-Churn
 
-# Analysis-Telco-Customer-Churn
-
 Este proyecto analiza la deserción de clientes (churn) de una empresa de telecomunicaciones para identificar patrones y factores clave.
 
 ## 📊 Dashboard Interactivo
