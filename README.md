@@ -1,9 +1,9 @@
-# Analysis-Telco-Customer-Churn
+# Analysis Telco Customer Churn
 
 Este proyecto analiza la deserción de clientes (churn) de una empresa de telecomunicaciones para identificar patrones y factores clave.
 
 ## 📊 Dashboard Interactivo
-Haz clic en la imagen de abajo para explorar el dashboard interactivo en tiempo real:
+Para explorar el dashboard interactivo en tiempo real haga clic en la imagen de abajo :
 
 [![Ver Dashboard en Power BI](Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiYTE4OGQ2MjAtOGUxMS00MWQ1LTg0MTUtNWI5NzgzZjg0NjNiIiwidCI6ImY5MzRlNWY3LTAwODgtNGJlZS1hN2RlLWI5ZWNjNWY2OTQxZCIsImMiOjR9)
 
