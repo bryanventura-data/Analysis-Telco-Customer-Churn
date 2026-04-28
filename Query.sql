@@ -22,12 +22,13 @@ FROM customers;
 
 
 # 2. Segmentación por contrato
--- Obtenemos el total de clientes, churn y tasa de churn por tipo de contrato
+-- Obtenemos el porcentaje de churn por tipo de contrato
 SELECT 
     Contract,
-    COUNT(*) AS total_clientes,
     SUM(CASE WHEN Churn = 'Yes' THEN 1 ELSE 0 END) AS churn_clientes,
-    ROUND(SUM(CASE WHEN Churn = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*),2) AS churn_rate
+    ROUND(SUM(CASE WHEN Churn = 'Yes' THEN 1 ELSE 0 END) * 100.0 / 
+        (SELECT SUM(CASE WHEN Churn = 'Yes' THEN 1 ELSE 0 END) FROM customers), 2) 
+    AS pct_del_total_churn
 FROM customers
 GROUP BY Contract;
 
